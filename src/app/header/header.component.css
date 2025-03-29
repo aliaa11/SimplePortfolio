@@ -197,6 +197,7 @@ animation: fadeInScale 1s ease-in-out;
   grid-template-columns: 1em 1em;
   position: absolute;
   transition: grid-template-columns 0.8s ease;
+  
 }
 
 .flower1 {
@@ -237,7 +238,7 @@ animation: fadeInScale 1s ease-in-out;
   height: 1em;
   width: 1em;
   border-radius: 40% 70% / 7% 90%;
-  background: linear-gradient(#07a6d7, #93e0ee);
+  background: linear-gradient(#042d86, #93e0ee);
   border: 0.5px solid #96d1ec;
   z-index: 0;
   transition: width 0.8s ease, height 0.8s ease;
@@ -256,7 +257,7 @@ animation: fadeInScale 1s ease-in-out;
 }
 
 .btn:hover .petal {
-  background: linear-gradient(#0761d7, #93bdee);
+  background: linear-gradient(#03459c, #93bdee);
   border: 0.5px solid #96b4ec;
 }
 
