@@ -15,6 +15,6 @@ export class PortfolioComponent {
     { image: 'assets/4.png', link: 'https://github.com/aliaa11/Facebook_Bootstrap5.git' },
     { image: 'assets/5.png', link: 'https://github.com/user/project4' },
     { image: 'assets/6.png', link: 'https://github.com/aliaa11/DentalClinic.git' },
-    { image: 'assets/demo.png', link: 'https://github.com/mashady/el-madrasaa.git' }
+    { image: 'assets/demo.png', link: 'https://el-madrasaa.netlify.app/' }
   ];
 }
